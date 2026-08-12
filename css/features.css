@@ -7,9 +7,10 @@
   gap: 24px;
 }
 .features-item {
+  max-width: 264px;
 }
 .features-name {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .features-description {
 }

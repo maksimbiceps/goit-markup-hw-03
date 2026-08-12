@@ -6,7 +6,7 @@
   text-transform: uppercase;
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
   display: block;
 }
 
@@ -15,6 +15,6 @@
   width: 264px;
 }
 
-.footer .container {
+.footer {
   padding: 100px 0px;
 }

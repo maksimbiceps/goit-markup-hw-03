@@ -12,13 +12,14 @@
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 48px 24px;
 }
 .portfolio-item {
 }
 .portfolio-image {
 }
 .portfolio-name {
+  margin-bottom: 8px;
 }
 .portfolio-description {
 }
@@ -26,5 +27,5 @@
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
-  padding: 32px 0px 32px 16px;
+  padding: 32px 16px;
 }
