@@ -1,0 +1,15 @@
+.features {
+}
+.features-title {
+}
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+.features-item {
+}
+.features-name {
+  padding-bottom: 8px;
+}
+.features-description {
+}

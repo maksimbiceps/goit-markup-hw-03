@@ -4,13 +4,19 @@
 .main-nav {
 }
 .main-nav-list {
+  display: flex;
+  gap: 40px;
+  align-items: center;
 }
 .main-nav-item {
 }
 .main-nav-link {
+  display: block;
   font-weight: 500;
   line-height: 1.5;
   color: #2e2f42;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .main-nav-link:hover {
   color: #404bbf;
@@ -23,16 +29,29 @@
 }
 
 .address {
+  margin-left: auto;
 }
 .address-list {
+  display: flex;
+  gap: 40px;
+  align-items: center;
 }
 .address-item {
 }
 .address-link {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .address-link:hover {
   color: #404bbf;
 }
 .address-link:focus {
   color: #404bbf;
+}
+
+.header .container {
+  display: flex;
 }
